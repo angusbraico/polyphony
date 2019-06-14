@@ -1,0 +1,1 @@
+To run the Max code properly, the jit.mo library needs to be downloaded from the Package Manager within Max.
